@@ -1,0 +1,4 @@
+_site
+.sass-cache
+.jekyll-metadata
+.local-notebooks # For testing and developing before publishing.
