@@ -12,7 +12,7 @@ What did you find?  A place where we can share some of the insights we're creati
 
 So, it's kind of a neat site.
 
-<img src="http://i.imgur.com/4oRNQ7w.webm" >
+<img src="/images/the_carlton.gif" >
 
 Of course, as you can see, this is the beginning.  We have blog articles we'll import into this system and we'll be encouraging our members to post some of their more-insightful pieces here as well.
 
