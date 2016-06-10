@@ -12,7 +12,7 @@ What did you find?  A place where we can share some of the insights we're creati
 
 So, it's kind of a neat site.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="4oRNQ7w"><a href="//imgur.com/4oRNQ7w">MRW It&#39;s Been a Good Day</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="http://i.imgur.com/4oRNQ7w.webm" >
 
 Of course, as you can see, this is the beginning.  We have blog articles we'll import into this system and we'll be encouraging our members to post some of their more-insightful pieces here as well.
 
